@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
+      "title": "Movie-Club",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This application was built so that people could review and discuss films in a community environment similar to a recurring 'book club'.",
+      "skills": ["handlebars.js", "Express-Session", "Node", "Sequellize ORM"],
+      "demo": "https://movie-club-project-2.onrender.com/",
+      "source": "https://github.com/isaacfallon/Movie-Club-Project-2"
     },
     {
-      "title": "Project B",
+      "title": "Text-editor",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a project made edit text like we do it VS-code by building an app, which you can install on desktop or phones.",
+      "skills": ["Webpack", "Express", "Node"],
+      "demo": "https://text-editor-4-zo79.onrender.com/",
+      "source": "https://github.com/SoniiPP/Text-Editor"
     },
     {
-      "title": "Project C",
+      "title": "Book-Search-Engine",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This is a project made to search for your favorite books and you can save it to read it later.",
+      "skills": ["React", "Express", "Node", "Mongodb", "GraphQl"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/SoniiPP/Book-Search-Engine"
     }
   ]
