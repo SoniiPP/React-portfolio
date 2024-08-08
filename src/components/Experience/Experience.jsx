@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
@@ -23,7 +22,7 @@ export const Experience = () => {
           })}
         </div>
         <ul className={styles.history}>
-          {history.map((historyItem, id) => {
+          {Array.isArray(history) && history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>
                 <img
