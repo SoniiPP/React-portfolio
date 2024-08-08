@@ -1,9 +1,18 @@
 
-    {
+   [ {
       "role": "System Administrator Intern",
-      "Company": "Danish Style PTY LTD",
+      "Organisation": "Danish Style PTY LTD",
       "startDate": "Nov, 2023",
       "endDate": "Apr, 2024",
       "experiences":["Provides applicable forms to the public as needed; types, word processes, and proofreads a variety of documents", "troubleshooting complex technical issues, administering various infrastructure-level systems, and implementing automation and efficiency improvements"],
-      "imageSrc": "history/google.png"
+      "imageSrc": "history/system.png"
+    },
+    {
+      "role": "Full-stack development Bootcamp",
+      "Organisation": "The University of Sydney /xEd",
+      "startDate": "Feb, 2024",
+      "endDate": "Apr, 2024",
+      "experiences":[" Built and deployed multiple full-stack web applications using React.js, Node.js, Express, and MongoDB. Implemented features such as user authentication, data visualization, and real-time updates.", "Designed and managed relational and non-relational databases. Performed data migrations, wrote complex queries, and optimized database performance."],
+      "imageSrc": "history/system.png"
     }
+  ]
