@@ -11,3 +11,20 @@ This project is a React-based single-page application (SPA) portfolio designed t
 7. Footer: Contains links to the developer’s GitHub, LinkedIn, and a third platform like Stack Overflow or Twitter.
    
 ### Installation process
+To set up this project on your local machine, follow these steps:
+1. Clone the Repository
+2. Install all dependencies
+3. Run the development server
+4. Build for production
+5. Deploy
+### Contribution and credits
+I got a little help from youtube videos also i have usedc figma design on this application.
+
+### Deployed link on Netlify
+ link : https://soniportfolio123.netlify.app/
+### Images
+![Screenshot 2024-08-19 005704](https://github.com/user-attachments/assets/8493e77f-6bf2-49c8-8c84-6e4d2be7bc6a)
+![Screenshot 2024-08-19 005714](https://github.com/user-attachments/assets/8bad4e50-00c2-4b79-810b-92518e25286f)
+![Screenshot 2024-08-19 005722](https://github.com/user-attachments/assets/77173430-266f-4096-be9b-f344515caef1)
+
+
